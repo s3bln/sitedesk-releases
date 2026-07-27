@@ -5,5 +5,17 @@
     <link>https://raw.githubusercontent.com/s3bln/sitedesk-releases/main/appcast.xml</link>
     <description>Mises à jour de SiteDesk</description>
     <language>fr</language>
+    <item>
+      <title>0.4.0</title>
+      <pubDate>Mon, 27 Jul 2026 12:16:08 +0200</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/s3bln/sitedesk-releases/releases/download/v0.4.0/SiteDesk-0.4.0.dmg"
+        sparkle:edSignature="cEtVNrKF2z5JotDR3ANdpwjIzSOlsnkoNgc6B4xMIPRY4jfEfU7YRWcpcY19jRRJipPDMXBMgvRDAtOfwzb4Ag=="
+        length="2218080"
+        type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>

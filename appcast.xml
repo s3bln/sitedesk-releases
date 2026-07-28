@@ -6,6 +6,18 @@
     <description>Mises à jour de SiteDesk</description>
     <language>fr</language>
     <item>
+      <title>0.6.7</title>
+      <pubDate>Tue, 28 Jul 2026 08:34:08 +0200</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.6.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/s3bln/sitedesk-releases/releases/download/v0.6.7/SiteDesk-0.6.7.dmg"
+        sparkle:edSignature="bQyQYpFzE51+GCqdnzECG2de8h1NDZ/o3Xkg6ZGDHRUGXTPxsFV0Y3oRco/90o1u4phmf0e4ML4QGcR/a9UvCg=="
+        length="2417566"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.5.0</title>
       <pubDate>Mon, 27 Jul 2026 12:42:25 +0200</pubDate>
       <sparkle:version>5</sparkle:version>

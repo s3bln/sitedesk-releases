@@ -6,6 +6,18 @@
     <description>Mises à jour de SiteDesk</description>
     <language>fr</language>
     <item>
+      <title>0.8.0</title>
+      <pubDate>Sat, 01 Aug 2026 12:34:34 +0200</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/s3bln/sitedesk-releases/releases/download/v0.8.0/SiteDesk-0.8.0.dmg"
+        sparkle:edSignature="0chaSpXg/RXO7/exfKwyP1/1vnNWJlokQ2ii5paFqRnhPfUrhDf8/tzfb3fGV1fqwgR7cO9qEQLOxJZkAtvCBw=="
+        length="2663474"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.7.0</title>
       <pubDate>Tue, 28 Jul 2026 23:19:38 +0200</pubDate>
       <sparkle:version>14</sparkle:version>
